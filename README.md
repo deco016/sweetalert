@@ -10,18 +10,18 @@
 
 <p align="center">
   <a href="https://badge.fury.io/js/sweetalert"><img src="https://badge.fury.io/js/sweetalert.svg" alt="npm version" height="18"></a>
-  <a href="https://travis-ci.org/t4t5/sweetalert"><img src="https://travis-ci.org/t4t5/sweetalert.svg" alt="Build status" /></a>
+  <a href="https://travis-ci.org/deco016/sweetalert"><img src="https://travis-ci.org/deco016/sweetalert.svg" alt="Build status" /></a>
   <a href="https://www.npmjs.com/package/sweetalert">
     <img src="https://img.shields.io/npm/dm/sweetalert.svg" />
   </a>
-  <a href="https://github.com/t4t5/sweetalert/blob/master/LICENSE">
+  <a href="https://github.com/deco016/sweetalert/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/t4t5/sweetalert.svg" />
   </a> 
   <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/SweetAlert/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/SweetAlert/sponsors/badge.svg" /></a>
 </p>
 
 <p align="center">
-  <img alt="A success modal" src="https://raw.githubusercontent.com/t4t5/sweetalert/e3c2085473a0eb5a6b022e43eb22e746380bb955/assets/swal.gif">
+  <img alt="A success modal" src="https://raw.githubusercontent.com/deco016/sweetalert/e3c2085473a0eb5a6b022e43eb22e746380bb955/assets/swal.gif">
 </p>
 
 
