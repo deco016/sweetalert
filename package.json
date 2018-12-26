@@ -1,6 +1,6 @@
 {
   "name": "sweetalert",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "A beautiful replacement for JavaScript's \"alert\"",
   "main": "dist/sweetalert.min.js",
   "types": "typings/sweetalert.d.ts",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/t4t5/sweetalert"
+    "url": "https://github.com/deco016/sweetalert"
   },
   "keywords": [
     "sweetalert",
@@ -26,7 +26,7 @@
   "author": "Tristan Edwards <tristan.edwards@me.com> (https://tristanedwards.me)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/t4t5/sweetalert/issues"
+    "url": "https://github.com/deco016/sweetalert/issues"
   },
   "homepage": "https://sweetalert.js.org/",
   "devDependencies": {
